@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER":"samibakkour",
+        "DB_PASSWORD":"ZZdDnW24A6VZYe2Z",
+        "DB_NAME":"mern",
+        "GOOGLE_API_KEY":"AIzaSyDgLmMpKCzveJf1_yuA0fUzzhy0WRChvZA",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}
